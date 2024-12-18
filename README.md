@@ -6,11 +6,14 @@ Features
 
 1. Add Data, View Data.
 2. Execute Complex Queries.
+3. Get Updates on Job Salary Range - 
+
 
 Set Up and Installation
 
 1. Install MySQL Connector: ```pip install mysql-connector-python```
 2. Install Streamlit: ```pip install streamlit```
+3. Install bcrypt using ```pip install bcrypt```
 
 Usage
 
